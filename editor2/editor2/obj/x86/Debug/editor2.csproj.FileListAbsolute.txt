@@ -1,0 +1,9 @@
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\bin\x86\Debug\Content\dot.xnb
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\bin\x86\Debug\editor2.exe
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\bin\x86\Debug\editor2.pdb
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\obj\x86\Debug\editor2.exe
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\obj\x86\Debug\editor2.pdb
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\bin\x86\Debug\FarseerProject.dll
+C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\editor2\editor2\bin\x86\Debug\FarseerProject.pdb

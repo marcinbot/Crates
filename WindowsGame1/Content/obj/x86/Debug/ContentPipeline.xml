@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sprites\sky.tga</Source>
+      <Name>sprites\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\sky.xnb</Output>
+      <Time>2009-03-15T19:33:27.921875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\clouds.tga</Source>
+      <Name>sprites\clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\clouds.xnb</Output>
+      <Time>2009-03-15T20:13:36.046875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\grass.tga</Source>
+      <Name>sprites\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\grass.xnb</Output>
+      <Time>2009-03-16T01:43:59.53125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\ground.tga</Source>
+      <Name>sprites\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\ground.xnb</Output>
+      <Time>2009-03-16T16:32:03.90625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\box.tga</Source>
+      <Name>sprites\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\box.xnb</Output>
+      <Time>2009-03-16T13:19:02.921875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\dot.tga</Source>
+      <Name>sprites\dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\dot.xnb</Output>
+      <Time>2009-03-16T15:34:11.40625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>circles\0.tga</Source>
+      <Name>circles\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\circles\0.xnb</Output>
+      <Time>2009-03-17T14:47:48.921875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>circles\1.tga</Source>
+      <Name>circles\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\circles\1.xnb</Output>
+      <Time>2009-03-17T14:47:48.890625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>circles\2.tga</Source>
+      <Name>circles\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\circles\2.xnb</Output>
+      <Time>2009-03-17T14:47:48.90625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>circles\3.tga</Source>
+      <Name>circles\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\circles\3.xnb</Output>
+      <Time>2009-03-17T14:47:48.921875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\rope.tga</Source>
+      <Name>sprites\rope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites\rope.xnb</Output>
+      <Time>2009-04-05T22:10:01.25+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Marcin\My Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-03-12T23:47:55.90625+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

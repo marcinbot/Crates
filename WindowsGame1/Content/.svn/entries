@@ -1,0 +1,77 @@
+9
+
+dir
+11
+https://physicsplatformer.googlecode.com/svn/trunk/WindowsGame1/Content
+https://physicsplatformer.googlecode.com/svn
+
+
+
+2009-03-23T21:06:16.278273Z
+11
+both00z
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d995f4cc-1624-11de-a6cc-771c510851eb
+
+circles
+dir
+
+mapData
+dir
+
+bin
+dir
+
+sprites
+dir
+
+obj
+dir
+
+Content.contentproj
+file
+15
+
+
+
+2009-04-05T21:11:36.765625Z
+e1b9bf64e8abb349485716d532d7c9ee
+2009-04-05T22:30:53.816612Z
+15
+both00z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5327
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBoxAttr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BoxAttr>
+    <X>223</X>
+    <Y>168</Y>
+    <width>100</width>
+    <heigth>100</heigth>
+    <rotation>0</rotation>
+  </BoxAttr>
+  <BoxAttr>
+    <X>223</X>
+    <Y>168</Y>
+    <width>100</width>
+    <heigth>100</heigth>
+    <rotation>0</rotation>
+  </BoxAttr>
+</ArrayOfBoxAttr>
